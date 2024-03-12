@@ -1,0 +1,7 @@
+ele baixou uma fonte de letras para colocar no html5.
+ele baixou a fonte veio zipada entao ele descompactou 
+entao ele colocou a fonte no html
+
+
+OTF ou TTF?
+depende do navegador é sua escolha(são tipos de arquivos)

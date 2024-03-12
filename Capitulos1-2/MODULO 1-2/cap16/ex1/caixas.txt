@@ -1,0 +1,56 @@
+modelo de caixas
+
+cap16 240224
+
+caixas
+html e css
+
+uma caixa dentro da outra
+aninhamento
+codigo: h1- elemento visivel dentro de caixa
+display block = muda inline para line level.
+
+tamanho:
+
+altura= height
+largura=width 
+border=borda que circula no conteúdo 
+
+como aumentar o tamanho da border???
+
+nome do tamanho é padding
+
+espaço externo=margin
+
+traço fora a borda=outline
+
+TIPOS DE CAIXAS=
+
+box level=sempre se inicia uma linha nova,
+ocupa 100% do navegador {largura}
+ex: div,h1,p,main,header
+
+inline level= não ocupa largura toda
+tamanho= conteudo
+nao vai pra prox.linha
+ex:span,
+
+tags importantes
+height
+width
+border
+padding
+margin
+outline
+use os numeros de acordo com a ordem
+
+iguais= apenas um tamanho
+
+dois iguais= cima,baixo e ,esquerda direita
+
+diferentes=cima direita baixo esquerda /-/
+use o box-shadow para sombrear as divisoes
+
+use o border radius para borda circular
+usabdo o border image source voçe pode personalizar suas bordas com imagens que vocÊ pode criar como bolas.
+border image stratch= estica a imagem

@@ -1,0 +1,12 @@
+cap14 aula4
+tamanho de fonte e suas medidas.
+
+medidas absolutas
+cm mm in px pt pc
+
+medidas relativas
+an ax rem vw vh %
+AN
+
+somente an e px
+16px natural

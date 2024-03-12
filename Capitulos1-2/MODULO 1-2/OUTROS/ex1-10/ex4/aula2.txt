@@ -1,0 +1,20 @@
+cap14 aula5
+peso estilo e shortlad fonts
+
+peso da fonte é font-weight 
+width=altura
+hight=largura
+
+text decoration = sublinhado
+
+ font weight largura bordas.
+font size tamnanho
+font style italico
+
+shorthand font 
+-font style
+-font weight
+-font-size
+font family
+
+= font italic border 3cm dark sans sans serif

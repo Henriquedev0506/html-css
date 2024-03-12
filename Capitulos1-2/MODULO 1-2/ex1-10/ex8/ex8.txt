@@ -1,0 +1,3 @@
+ele baixou uma extensão do google chamada fonts ninja
+ele e um serviço para capturar fontes de texto em qualquer site
+da pra ver o nome da font,tamanho,cor da fonte etc.

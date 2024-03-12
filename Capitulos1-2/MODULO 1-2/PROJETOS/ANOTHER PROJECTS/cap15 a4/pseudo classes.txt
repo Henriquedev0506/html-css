@@ -1,0 +1,8 @@
+ <title>pseudo elementos css</title>
+/*
+# =id
+.=class
+: = pseudo class
+: : =pseudo element 
+> = children
+*/

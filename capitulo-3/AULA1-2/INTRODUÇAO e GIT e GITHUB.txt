@@ -1,0 +1,27 @@
+CURSO DE HTML E CSS 
+MÓDULO 3
+
+-------------AULA 1
+
+.tivemos uma introdução do que vamos ver nesse curso de html e css.
+criaremos um novo projeto e a colocaremos num servidor da internet.
+
+-----------AULA 2
+
+GIT e GITHUB
+
+Gerenciador de versões
+GIT(gerenciador de versões)
+REPOSITORIO LOCAL
+para poder ter vários testes de sites e fazer um backup.
+software que vai manter softwares em seus sites.
+(tem um problema: está sujeito a perder todos os seus arquivos.)
+
+GITHUB(hospedagem gratuita sem problemas)
+REPOSITORIO REMOTO
+permite o trabalho em equipe
+BACKUP NA NUVEM
+todo mundo consegue ver seus projetos
+
+
+

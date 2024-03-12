@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {background-color: aqua;
+font-family: 'Times New Roman', Times, serif;}
+
+h1{color: blue;}
+h2{color: darkblue;}
+h1#principal {text-align: center;
+background-color: chartreuse;
+color: black;}
+
+
+
+.intermediario {color: firebrick;text-align: center;}
+.basico{color: black;
+text-align: center;}
+.avancado {color: darkorange; text-align: center;}
+
+.destaque {background-color: cyan; text-align: left; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
